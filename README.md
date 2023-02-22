@@ -25,6 +25,8 @@ Then run the following command to starting code:
 python apply_filter.py
 ```
 
+  #### Note: Press "F" to change filters. Press "Esc" to exit.
+  
 ## 2. References
 [1] https://learnopencv.com/create-snapchat-instagram-filters-using-mediapipe/
 
