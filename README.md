@@ -1,4 +1,3 @@
-# CS231_TikTok-Filters
 # <center>CS231. Introduction to Computer Vision<center>
 
 ## Creating TikTok Filters
