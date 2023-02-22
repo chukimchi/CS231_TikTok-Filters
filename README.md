@@ -14,7 +14,7 @@ Python: python3.9.15
 
 Open terminal and run this script: 
 ```
-git clone 
+git clone https://github.com/chukimchi/CS231_TikTok-Filters.git
 pip install -r requirements.txt
 ```
 
