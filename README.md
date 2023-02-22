@@ -17,6 +17,7 @@ Open terminal and run this script:
 git clone https://github.com/chukimchi/CS231_TikTok-Filters.git
 cd CS231_TikTok-Filters
 pip install -r requirements.txt
+pip install mediapipe
 ```
 
 ### 1.2. Run code
