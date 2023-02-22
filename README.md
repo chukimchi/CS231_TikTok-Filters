@@ -1,7 +1,6 @@
 # <center>CS231. Introduction to Computer Vision<center>
 
-## Creating TikTok Filters
-Using MediaPipe.
+## Applying effects from camera - TikTok filters for face using MediaPipe.
   
 **Video demo:** https://youtu.be/RBauS5yyse0
 
